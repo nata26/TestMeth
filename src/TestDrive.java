@@ -21,7 +21,8 @@ public class TestDrive {
 
         int targetNr = (int) (Math.random() * 10);
         //System.out.println("SECRET: The right number is: " + targetNr);
-        System.out.println("Number between 0 and 9");
+       // System.out.println("Number between 0 and 9");
+
 
         while (true){
 
